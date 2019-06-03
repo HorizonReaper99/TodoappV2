@@ -1,7 +1,11 @@
 body{
-    background-color: grey;
+    background-color: White;
 }
 
 .row{
     justify-content: center;
+}
+
+html{
+    background-color: white;
 }
